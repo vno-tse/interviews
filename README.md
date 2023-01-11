@@ -1,5 +1,5 @@
 # Interview Task #10
-Add your initials and favourite colour to the list below
+Add your initials and favourite animal to the list below
 
-- KL blue
+- KL sloth
 - VJ cat
